@@ -19595,10 +19595,16 @@
       "links": {},
       "address": "0xdF7d009f5C3ab13671192D27e7CCc3E4562C62C6",
       "transactionHash": "0x7bed1486465209e6c95c514c62e4bb84cacd39041c5b2cffebc86e968c76d116"
+    },
+    "1668538073293": {
+      "events": {},
+      "links": {},
+      "address": "0xd6F8A475489E6aD9035ac83398FF22a49Ea0076a",
+      "transactionHash": "0x84e63895a261a2da5454486b79917eda5cd881463ae91bc84f2842f38ed28b27"
     }
   },
   "schemaVersion": "3.4.10",
-  "updatedAt": "2022-11-15T16:27:03.221Z",
+  "updatedAt": "2022-11-15T18:52:49.934Z",
   "networkType": "ethereum",
   "devdoc": {
     "author": "Cyril Castagnet",
