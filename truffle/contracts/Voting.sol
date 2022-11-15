@@ -9,7 +9,7 @@ import "../node_modules/@openzeppelin/contracts/access/Ownable.sol";
 /// @dev Inherits the OpenZepplin Ownable contract
 contract Voting is Ownable {
 
-    uint256 public winningProposalID = 2;
+    uint256 public winningProposalID ;
     /// @notice private Temporary winningProposalID to avoid DOS gas limit attack and no one can see it before TallyVote
     uint256 private tempWinningProposalID ;
 
